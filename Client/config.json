@@ -1,0 +1,6 @@
+{
+	"Bot": {
+		"prefix": "=",
+		"$token": "Your Token"
+	}
+}
