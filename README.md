@@ -1,6 +1,8 @@
 # wowbot-
 와우봇
 
+**준비물**
+node.js
 
 **와우봇 설치방법**
 1. cmd에 cd 봇 경로\Client를 들어갑니다
